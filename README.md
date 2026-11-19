@@ -37,6 +37,4 @@ The project consists of 10 screens:
 ## Figma Design
 [https://www.figma.com/design/C1NtgzSZdj7Vur0XD66cYT/Booking.com-wireframes?node-id=63-513&p=f&t=GYEhjGFnOgJFcd1l-0]
 
-## Author
-Computing and Information Systems Undergraduate
 
